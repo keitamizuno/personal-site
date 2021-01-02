@@ -1,11 +1,10 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hello, I am Keita Mizuno
 content: >
-  # I am here for your personal business
+  # I am a Consultant and Software Engineer.
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  I work smarter, not harder.
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/profile.png
