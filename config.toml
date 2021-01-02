@@ -1,4 +1,4 @@
-baseURL = "http://keitamizuno.one/"
+baseURL = "https://keitamizuno.one/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
